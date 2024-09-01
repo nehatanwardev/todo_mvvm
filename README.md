@@ -28,4 +28,4 @@ To get started with this project, follow these steps:
 
 bash
 
-git clone  https://github.com/nehatanwar2698/todo_app_getx.git
+git clone  https://github.com/nehatanwardev/todo_mvvm.git
